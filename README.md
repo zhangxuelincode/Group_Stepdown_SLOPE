@@ -1,3 +1,2 @@
-# Group Stepdown SLOPE for Controlled Feature Selection with Group Structures
-### Codes for our paper, submitted to Frontiers of Computer Science.
+# Codes for our paper on Group-wise Error-Controlled Feature Selection, submitted to Frontiers of Computer Science.
 
